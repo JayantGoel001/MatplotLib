@@ -8,7 +8,7 @@ Matplotlib 2.0.x supports Python versions 2.7 through 3.6. Python 3 support star
 
 Pyplot is a Matplotlib module which provides a MATLAB-like interface. Matplotlib is designed to be as usable as MATLAB, with the ability to use Python, and the advantage of being free and open-source.
 
-### Toolkits
+## Toolkits
 
 *Several toolkits are available which extend Matplotlib functionality. Some are separate downloads, others ship with the Matplotlib source code but have external dependencies.*
 
